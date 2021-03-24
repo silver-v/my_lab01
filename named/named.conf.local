@@ -1,0 +1,5 @@
+zone :test.example.com" {
+type master;
+file "/etc/named/zones/db.test.example.com";
+};
+
